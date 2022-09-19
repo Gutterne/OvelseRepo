@@ -9,7 +9,7 @@ public class Skatteklasse {
         ambi = indkomst * 8.0 /100;
         pension = indkomst * 1.0/100;
 
-
+//Moiz har redigeret
 
         bundskat = ((indkomst-(ambi+pension+personfradrag))*0.07);
 
