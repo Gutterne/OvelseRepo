@@ -19,7 +19,7 @@ public class Skatteklasse {
         //System.out.println(pension);
 
 
-
+//Mathias redigeret
 
  }
 }
